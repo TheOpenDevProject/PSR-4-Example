@@ -1,0 +1,15 @@
+{
+    "autoload":{
+    	"psr-4":{"MyApp\\Core\\":"MyApp/Core/"}
+    },
+    "name": "gudphp/composer-example",
+    "description": "Not shit PHP",
+    "authors": [
+        {
+            "name": "TheOpenDevProject",
+            "email": "tkgs28@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
